@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Java
+target/
+*.jar
+
+# DB / logs
+*.db
+*.log
+
+# OS / IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Electron build
+release/
+out/
